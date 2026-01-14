@@ -65,6 +65,8 @@ BMI values are rounded to one decimal place and matched against predefined BMI c
 
 ---
 
+![RT-Movies Demo](./src/assets/images/BMI-House-mockup.webp)
+
 ## Project Structure
 ```bash
 src/
